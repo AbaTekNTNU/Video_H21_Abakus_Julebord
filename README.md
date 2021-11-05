@@ -1,4 +1,4 @@
-# Video_H21_Abakus_Julebord
+# Lyd og Video Abakus Julebord 6. november 2021
 
 QLab brukt under julebordet til Abakus 6. november 2021. 
 
